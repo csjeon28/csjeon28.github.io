@@ -5,166 +5,174 @@
         "answer2": "11",
         "answer3": "10",
         "answer4": "12",
-        "correct": 3
+        "correct": "3"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "Rachel got a job with which company in Paris?",
+        "answer1": "Chanel",
+        "answer2": "Louis Vuitton",
+        "answer3": "Hugo Boss",
+        "answer4": "Gucci",
+        "correct": "2"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "What store does Phoebe hate?",
+        "answer1": "Central Perk",
+        "answer2": "Pottery Barn",
+        "answer3": "Starbucks",
+        "answer4": "Anthropologie",
+        "correct": "2"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "Who says 'Pivot! Pivot! Pivot! Pivot! Pivot!'?",
+        "answer1": "Ross",
+        "answer2": "Rachel",
+        "answer3": "Chandler",
+        "answer4": "Joey",
+        "correct": "1"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "Who was the maid of honor at Monica's wedding?",
+        "answer1": "Phoebe",
+        "answer2": "Rachel",
+        "answer3": "Chi-Chi her dog",
+        "answer4": "Nobody",
+        "correct": "2"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "Brad Pitt and David Schwimmer's characters co-founded what club in high school?",
+        "answer1": "The Dinosaur Club",
+        "answer2": "The Chess Club",
+        "answer3": "The I Love Rachel Green Club",
+        "answer4": "The I Hate Rachel Green Club",
+        "correct": "4"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "What does Rachel guess Chandler's job is?",
+        "answer1": "Data reconfiguration",
+        "answer2": "A transponster",
+        "answer3": "A comedian",
+        "answer4": "Data analyst",
+        "correct": "2"
     },
     {
-        "question": "How many seasons of Friends are there?",
+        "question": "Monica categorizes her towels into how many categories?",
         "answer1": "8",
-        "answer2": "11",
+        "answer2": "9",
         "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "answer4": "11",
+        "correct": "4"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "What does Phoebe legally change her name to after her wedding?",
+        "answer1": "Princess Consulea Banana Hammock",
+        "answer2": "Princess",
+        "answer3": "Crap Bag",
+        "answer4": "Phoebe Hannigan",
+        "correct": "1"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "Who says 'Here come the meat sweats.'?",
+        "answer1": "Ross",
+        "answer2": "Chandler",
+        "answer3": "Joey",
+        "answer4": "Monica",
+        "correct": "3"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "Rachel was in which sorority?",
+        "answer1": "Kappa Kappa Delta",
+        "answer2": "Kappa Delta Phi",
+        "answer3": "Kappa Kappa Phi",
+        "answer4": "Kappa Phi Delta",
+        "correct": "1"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "What holiday does Chandler hate?",
+        "answer1": "Christmas",
+        "answer2": "Hanukkah",
+        "answer3": "New Years",
+        "answer4": "Thanksgiving",
+        "correct": "4"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "How many pages was Rachel's letter to Ross?",
+        "answer1": "18 pages (FRONT AND BACK)",
+        "answer2": "15 pages (FRONT AND BACK)",
+        "answer3": "10 pages (FRONT AND BACK)",
+        "answer4": "12 pages (FRONT AND BACK)",
+        "correct": "1"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "What is the first wedding gift Monica opens?",
+        "answer1": "A soft blanket",
+        "answer2": "A fruit bowl",
+        "answer3": "A tiny salt shaker",
+        "answer4": "A vase",
+        "correct": "3"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "What is the name of Joey's barcalounger?",
+        "answer1": "Stevie",
+        "answer2": "Rosita",
+        "answer3": "Joey",
+        "answer4": "Chandler",
+        "correct": "2"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "Chandler and Rachel ate cheesecake off the floor from what bakery?",
+        "answer1": "Illinois Bakery",
+        "answer2": "Chicago Bakery",
+        "answer3": "Grandma's Little Bakery",
+        "answer4": "Mama's Little Bakery",
+        "correct": "4"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "Who says 'But they don't know that we know they know we know!'?",
+        "answer1": "Phoebe",
+        "answer2": "Rachel",
+        "answer3": "Joey",
+        "answer4": "Ross",
+        "correct": "1"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "What was the name of Ross and Monica's dog when they were kids?",
+        "answer1": "Clunkers",
+        "answer2": "La Pooh",
+        "answer3": "Chi-Chi",
+        "answer4": "Skip",
+        "correct": "3"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "Who dresses up as the Holiday Armadillo?",
+        "answer1": "Ross",
+        "answer2": "Chandler",
+        "answer3": "Monica",
+        "answer4": "Phoebe",
+        "correct": "1"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
-        "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "question": "What do Monica and Chandler name their twins?",
+        "answer1": "Emma and Jack",
+        "answer2": "Rachel and Joey",
+        "answer3": "Susan and Joey",
+        "answer4": "Erica and Jack",
+        "correct": "4"
     },
     {
-        "question": "How many seasons of Friends are there?",
-        "answer1": "8",
-        "answer2": "11",
+        "question": "According to Monica, a woman has how many erogenous zones?",
+        "answer1": "5",
+        "answer2": "7",
         "answer3": "10",
-        "answer4": "12",
-        "correct": 3
+        "answer4": "15",
+        "correct": "2"
+    }
+    {
+        "question": "Who sings the Friends theme song 'I'll Be There For You'?",
+        "answer1": "The Rembrandts",
+        "answer2": "The Beach Boys",
+        "answer3": "The Bee Gees",
+        "answer4": "The Beatles",
+        "correct": "1"
     }
 ]
